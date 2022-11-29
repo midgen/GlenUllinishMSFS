@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Glen Ullinish Turbines</Title>
+		<Manufacturer/>
+		<Creator>Chris Ashworth</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cashworth-glenullinishturbines\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\cashworth-glenullinishturbines\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>MarketplaceData</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cashworth-glenullinishturbines\MarketplaceData</AssetDir>
+			<OutputDir>MarketplaceData\cashworth-glenullinishturbines</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Turbines">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\cashworth\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

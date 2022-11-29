@@ -1,0 +1,15 @@
+{
+  "market-data": {
+    "Neutral": {
+      "creator": "My Company",
+      "title": "Simple Scenery",
+      "description": "MYNN sample demonstrating how to create a model library and a scenery",
+      "support-contact": "devsupport.flightsimulator.com",
+      "tags": "SCENERY",
+      "media-backgrounds": [
+        "thumbnail3840x2160.jpg,thumbnail3840x2160.jpg"
+      ],
+      "blocks": []
+    }
+  }
+}

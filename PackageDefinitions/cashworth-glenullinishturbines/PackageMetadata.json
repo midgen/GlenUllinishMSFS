@@ -1,0 +1,16 @@
+{
+  "business": {
+    "PriceInUSD": 0,
+    "ThirdPartyShortName": "cashworth",
+    "AccountSellerId": "sellerid",
+    "UseFirstAvailableReleaseDate": true
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "World",
+        "section": "Scenery"
+      }
+    ]
+  }
+}

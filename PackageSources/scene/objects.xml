@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject displayName="W8" lat="57.37272086003310" lon="-6.41329108358510" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W11" groupIndex="2" lat="57.37340212850520" lon="-6.42920595291158" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W9" groupIndex="3" lat="57.37666631905920" lon="-6.41721246334859" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W12" groupIndex="4" lat="57.37667845171070" lon="-6.43398068406130" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W6" groupIndex="5" lat="57.37741782182320" lon="-6.39680638207181" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W7" groupIndex="6" lat="57.37809154273140" lon="-6.40556213462627" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W10" groupIndex="7" lat="57.37886360586370" lon="-6.42403770724674" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W13" groupIndex="8" lat="57.38181127669440" lon="-6.43456810362629" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W5" groupIndex="9" lat="57.38242070531270" lon="-6.38773120814690" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W18" groupIndex="10" lat="57.38403095161920" lon="-6.42441145002778" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W3" groupIndex="11" lat="57.38437502476110" lon="-6.36906364568644" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W1" groupIndex="12" lat="57.38590942603700" lon="-6.35932082741001" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W14" groupIndex="13" lat="57.38601428520090" lon="-6.43729159186239" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W4" groupIndex="14" lat="57.38611298216800" lon="-6.37649860739520" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W17" groupIndex="15" lat="57.38864810889410" lon="-6.42661766237172" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W20" groupIndex="16" lat="57.38900892525310" lon="-6.41533531161717" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W2" groupIndex="17" lat="57.38989951640710" lon="-6.36692396567024" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W15" groupIndex="18" lat="57.39003225190830" lon="-6.44015988214235" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W19" groupIndex="19" lat="57.39336398414870" lon="-6.41732587061436" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W23" groupIndex="20" lat="57.39376611785220" lon="-6.39841774924921" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W22" groupIndex="21" lat="57.39414830202300" lon="-6.40650940220643" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W16" groupIndex="22" lat="57.39500942898430" lon="-6.44107944869603" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W26" groupIndex="23" lat="57.39830027152610" lon="-6.38911609710208" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W21" groupIndex="24" lat="57.39882802318530" lon="-6.40822173062805" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W25" groupIndex="25" lat="57.39943220692790" lon="-6.39713199005480" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W34" groupIndex="26" lat="57.40314824972470" lon="-6.36067208047960" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W24" groupIndex="27" lat="57.40323095786810" lon="-6.40012055902224" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W37" groupIndex="28" lat="57.40426934010190" lon="-6.37500173675008" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W30" groupIndex="29" lat="57.40618210832050" lon="-6.33378938446804" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W32" groupIndex="30" lat="57.40655710937230" lon="-6.34273178359869" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W27" groupIndex="31" lat="57.40751298059120" lon="-6.42776414643773" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W38" groupIndex="32" lat="57.40851343915950" lon="-6.36052758136886" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W40" groupIndex="33" lat="57.40895646412770" lon="-6.38064423767117" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W35" groupIndex="34" lat="57.40962617894320" lon="-6.34891155557795" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W41" groupIndex="35" lat="57.40976361084380" lon="-6.36855881651790" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W31" groupIndex="36" lat="57.41110600123800" lon="-6.32582285868246" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W29" groupIndex="37" lat="57.41149918843910" lon="-6.42029638019723" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W33" groupIndex="38" lat="57.41286647035380" lon="-6.33346373457173" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W28" groupIndex="39" lat="57.41356478752440" lon="-6.42702916965478" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W42" groupIndex="40" lat="57.41399893785900" lon="-6.35924740953101" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W39" groupIndex="41" lat="57.41409019917150" lon="-6.34985832764124" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W44" groupIndex="42" lat="57.41456837171840" lon="-6.38013219004277" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W45" groupIndex="43" lat="57.41459360930780" lon="-6.37113503051572" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W36" groupIndex="44" lat="57.41507800736000" lon="-6.34000883907990" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W47" groupIndex="45" lat="57.41815368740390" lon="-6.38409484981436" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W43" groupIndex="46" lat="57.41922503016650" lon="-6.35195187838658" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W48" groupIndex="47" lat="57.42106229017590" lon="-6.37417444465058" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W50" groupIndex="48" lat="57.42217000434820" lon="-6.38704305868586" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W46" groupIndex="49" lat="57.42272457139610" lon="-6.35581868028853" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W49" groupIndex="50" lat="57.42518197092680" lon="-6.36276309094174" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W53" groupIndex="51" lat="57.42520593617900" lon="-6.39282530293991" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W51" groupIndex="52" lat="57.42534754205570" lon="-6.37715395642115" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W54" groupIndex="53" lat="57.42875578967230" lon="-6.38233018181802" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W52" groupIndex="54" lat="57.42889411486810" lon="-6.36697376994356" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W56" groupIndex="55" lat="57.42953233539060" lon="-6.39564559681743" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W55" groupIndex="56" lat="57.43226088965960" lon="-6.37206120467749" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W57" groupIndex="57" lat="57.43296767316850" lon="-6.38611964080758" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W59" groupIndex="58" lat="57.43432438021830" lon="-6.39672153188508" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="W58" groupIndex="59" lat="57.43569475949430" lon="-6.37650724448323" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-0.000055" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windmill" scale="4.000000"/>
+	</SceneryObject>
+</FSData>
+
